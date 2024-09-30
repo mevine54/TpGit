@@ -1,6 +1,8 @@
 public class Hello {
-    public static void(String[] args) {
-        System.out.println("Hello World")
-        System.out.println("Bienvenue TPGIT")
+    public static void ecrire(String[] args) {
+       ecrire("Hello World")
+        
     }
+
+    public void ecrire("Hello World")
 }
