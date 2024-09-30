@@ -5,5 +5,5 @@ public class Hello {
     }
 
     public void ecrire("Hello World");
-    // Essai collaboration 2
+    // Essai collaboration 2 test
 }
